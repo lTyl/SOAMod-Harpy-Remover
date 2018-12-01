@@ -1,0 +1,22 @@
+{
+  "name": "soamod-harpy-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node node_modules/shadows-of-adam-mod-builder/index.js --output=dist/ty-harpy-remover.pak"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lTyl/SOAMod-Harpy-Remover.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lTyl/SOAMod-Harpy-Remover/issues"
+  },
+  "homepage": "https://github.com/lTyl/SOAMod-Harpy-Remover#readme",
+  "dependencies": {
+    "shadows-of-adam-mod-builder": "^1.0.0"
+  }
+}
